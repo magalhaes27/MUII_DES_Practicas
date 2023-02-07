@@ -16,6 +16,7 @@ Una aplicación de Fintech que permite a gstores de PYMES y personas individuale
 Las prácticas estan divididas en 4 secciones, en que cada una destaca objectivos específicos de la asignatura, terminando con un prototipo final de la aplicación y una página web que resume los procesos que se tuvieron en cuenta en el desarrollo de la aplicación.
 
 A continuación los enlaces a cada sesion:
+
 [Práctica 1](./P1)
 
 [Práctica 2](./P2)
