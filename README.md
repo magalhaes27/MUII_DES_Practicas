@@ -17,6 +17,9 @@ Las prácticas estan divididas en 4 secciones, en que cada una destaca objectivo
 
 A continuación los enlaces a cada sesion:
 [Práctica 1](./P1)
+
 [Práctica 2](./P2)
+
 [Práctica 3](./P3)
+
 [Práctica 4](./P4)
